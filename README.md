@@ -1,1 +1,3 @@
-# Python-Implementation
+# Python Implementation
+这是我自己的Python代码库，有很多实现，不一定很高大上，但很有用。  
+欢迎各位交流学习。
