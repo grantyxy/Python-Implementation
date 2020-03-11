@@ -32,3 +32,9 @@ Major: {self._major}"""
 if __name__ == "__main__":
     a = people("Sun Xiaochuan", 1997, "Computer Science")
     print(a)
+
+"""
+Name:  Sun Xiaochuan
+Year:  1997
+Major: Computer Science
+"""
